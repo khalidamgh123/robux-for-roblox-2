@@ -1,8 +1,8 @@
 {
 	"ADS": {
 		 "rewarde_type": "yandex",
-		"native_type": "yandex",
-		"inter_type": "yandex",
+		"native_type": "admob",
+		"inter_type": "admob",
 		"banner_type": "yandex",
  
 		"unity_id": "4292105",
@@ -30,14 +30,14 @@
 
 		
 
-		"interstitial_admob": "ca-app-pub-3940256099942544/1033173712",
+		"interstitial_admob": "ca-app-pub-2081765257706043/8859209900",
 		"banner_admob": "ca-app-pub-3940256099942544/6300978111",
-		"native_admob": "ca-app-pub-3940256099942544/2247696110",
+		"native_admob": "ca-app-pub-2081765257706043/6424618254",
 		"rewarde_admob": "ca-app-pub-3940256099942544/5224354917",
 
 		"banner_admob1": "ca-app-pub-3940256099942544/6300978111",
 
-		"interstitial_admob1": "ca-app-p12",
+		"interstitial_admob1": "ca-app-pub-2081765257706043/8859209900",
 		"native_admob1": "ca-app-pub-567",
 		"rewarde_admob1": "ca-app-pub-3940256099942544/5354046379",
 		
